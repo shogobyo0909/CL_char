@@ -4,9 +4,9 @@
 void main(void){
 	int i;
 	char S[10];
-	S[0]='4';
-	S[1]='5';
-	S[2]='0';
+	S[0]='2';
+	S[1]='2';
+	S[2]='2';
 	for(i=0; i<3; i=i+1){
 		printf("%c",S[i]);
 	}
